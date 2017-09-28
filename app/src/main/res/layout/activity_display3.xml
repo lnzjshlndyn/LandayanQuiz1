@@ -7,41 +7,41 @@
     tools:context="com.landayan.landayanquiz1.display3Activity">
 
     <ImageView
-        android:id="@+id/androidImageview"
+        android:id="@+id/androidImageview1"
         android:layout_width="300dp"
         android:layout_height="200dp"
         android:layout_marginTop="33dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
     <TextView
-        android:id="@+id/androidCodename"
+        android:id="@+id/androidCodename1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Codename"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
     <TextView
-        android:id="@+id/androidVersion"
+        android:id="@+id/androidVersion1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Version"
-        android:layout_below="@+id/androidCodename"
+        android:layout_below="@+id/androidCodename1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp" />
     <TextView
-        android:id="@+id/androidAPIlevel"
+        android:id="@+id/androidAPIlevel1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="API Level"
-        android:layout_below="@+id/androidVersion"
+        android:layout_below="@+id/androidVersion1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp" />
     <TextView
-        android:id="@+id/androidReleasedate"
+        android:id="@+id/androidReleasedate1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Release Date"
-        android:layout_below="@+id/androidAPIlevel"
+        android:layout_below="@+id/androidAPIlevel1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="22dp" />
 
