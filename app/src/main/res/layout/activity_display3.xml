@@ -95,7 +95,6 @@
         android:layout_alignBaseline="@+id/secondButton"
         android:layout_alignBottom="@+id/secondButton"
         android:layout_toRightOf="@+id/secondButton"
-        android:layout_toEndOf="@+id/secondButton"
-        android:onClick="goThird"/>
+        android:layout_toEndOf="@+id/secondButton"/>
 
 </RelativeLayout>
