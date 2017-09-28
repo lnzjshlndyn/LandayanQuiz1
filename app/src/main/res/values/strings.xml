@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LandayanQuiz1</string>
+
+    <string-array name="androidVersions">
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+    </string-array>
+</resources>
