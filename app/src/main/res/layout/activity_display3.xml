@@ -7,41 +7,43 @@
     tools:context="com.landayan.landayanquiz1.display3Activity">
 
     <ImageView
-        android:id="@+id/androidImageview1"
+        android:id="@+id/androidImageview3"
         android:layout_width="300dp"
         android:layout_height="200dp"
         android:layout_marginTop="33dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/lollipop"
+        />
     <TextView
-        android:id="@+id/androidCodename1"
+        android:id="@+id/androidCodename3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Codename"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
     <TextView
-        android:id="@+id/androidVersion1"
+        android:id="@+id/androidVersion3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Version"
-        android:layout_below="@+id/androidCodename1"
+        android:layout_below="@+id/androidCodename3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp" />
     <TextView
-        android:id="@+id/androidAPIlevel1"
+        android:id="@+id/androidAPIlevel3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="API Level"
-        android:layout_below="@+id/androidVersion1"
+        android:layout_below="@+id/androidVersion3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp" />
     <TextView
-        android:id="@+id/androidReleasedate1"
+        android:id="@+id/androidReleasedate3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Release Date"
-        android:layout_below="@+id/androidAPIlevel1"
+        android:layout_below="@+id/androidAPIlevel3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="22dp" />
 

@@ -12,7 +12,8 @@
         android:layout_height="200dp"
         android:layout_marginTop="33dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/kitkat" />
     <TextView
         android:id="@+id/androidCodename2"
         android:layout_width="wrap_content"

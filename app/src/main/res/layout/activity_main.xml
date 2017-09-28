@@ -67,5 +67,4 @@
         android:layout_toEndOf="@+id/secondButton"
         android:onClick="goThird"/>
 
-
 </RelativeLayout>
